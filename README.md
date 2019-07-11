@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##LOREM IPSUM
+##Website Content
 
-Meow meow meow
-
-Arf Arf Arf
+1.index.html
